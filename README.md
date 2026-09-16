@@ -119,8 +119,15 @@ Experience with **memory management concepts, low-level arithmetic operations, r
 
 Some of the projects I have worked on include:
 
-- 🤖 **AI Outfit Analysis** — Web application using TypeScript and Python to analyze clothing items and color compatibility from images.
-- 🧠 **RAG Application** — Cross-platform application using Dart, Python, and PostgreSQL with vector-based retrieval.
+- 🤖 **AI Outfit Analysis / ClosetIQ**
+Next.js · TypeScript · Python · FastAPI · PostgreSQL · Machine Learning
+
+Web-based wardrobe management system built with a microservices architecture.
+The application uses a Python/FastAPI machine learning service to analyze
+uploaded garment images, automatically classify clothing categories, and
+extract dominant color palettes. The system also provides digital wardrobe
+management, outfit creation, calendar planning, and contextual recommendations.
+
 - 💾 **8086 Assembly Projects** — Low-level applications focused on memory management, arithmetic operations, and processor-level programming.
 
 ---
